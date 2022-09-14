@@ -224,3 +224,7 @@ mkdir
 pwd
 ubumtu
 sudo su
+git remote
+sudo yum install -y
+sudo yum install git -y
+sudo su
